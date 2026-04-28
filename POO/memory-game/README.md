@@ -37,6 +37,15 @@ memory_game/
 score = pares * 1000 - erros * 100 - tempo_em_segundos * 2
 ```
 
+## Get started
+```
+Rode o comando para instalar o ambiente virtual:
+.venv\Scripts\python.exe -m pip install pygame Pillow
+
+Rode a aplicação:
+.venv\Scripts\python.exe main.py
+```
+
 ## Formato do ranking.txt
 ```
 nome|pontos|pares|tentativas|tempo_segundos|data
