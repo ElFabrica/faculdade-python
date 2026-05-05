@@ -3,11 +3,19 @@
 Jogo da memória em Python orientado a objetos com Pygame.
 
 ## Requisitos
-```
-pip install pygame Pillow
+
+- Python 3.10+
+- pygame
+- Pillow
+
+## Instalação das dependências
+
+```bash
+python -m pip install pygame Pillow
 ```
 
 ## Como executar
+
 ```bash
 python main.py
 ```
